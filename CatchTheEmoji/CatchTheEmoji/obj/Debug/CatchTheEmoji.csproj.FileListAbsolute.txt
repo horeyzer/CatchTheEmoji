@@ -1,0 +1,36 @@
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.exe.config
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.exe
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.pdb
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.SuggestedBindingRedirects.cache
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Properties.Resources.resources
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.GenerateResource.cache
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.exe
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.pdb
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Launcher.resources
+C:\Users\vchup\source\repos\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Game.resources
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.exe.config
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.exe
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.pdb
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.AssemblyReference.cache
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.SuggestedBindingRedirects.cache
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Launcher.resources
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Game.resources
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Properties.Resources.resources
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.GenerateResource.cache
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.CoreCompileInputs.cache
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.exe
+C:\Users\yshin\OneDrive\Рабочий стол\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.pdb
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.exe.config
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.exe
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\bin\Debug\CatchTheEmoji.pdb
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.AssemblyReference.cache
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.SuggestedBindingRedirects.cache
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Launcher.resources
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Game.resources
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.Properties.Resources.resources
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.GenerateResource.cache
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.csproj.CoreCompileInputs.cache
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.exe
+C:\Users\vchup\Desktop\CatchTheEmoji\CatchTheEmoji\obj\Debug\CatchTheEmoji.pdb
